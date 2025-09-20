@@ -1,0 +1,9 @@
+{
+  "name": "logging-service",
+  "summary": "Logging to datadog",
+  "team": "payments-platform",
+  "responsibilities": ["common", "logging"],
+  "dependencies": ["datadog"],
+  "tags": ["datadog"],
+  "docs": ["docs/overview.md"]
+}
